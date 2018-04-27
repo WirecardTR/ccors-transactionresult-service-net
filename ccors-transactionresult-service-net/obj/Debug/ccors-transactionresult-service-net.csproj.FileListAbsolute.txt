@@ -18,3 +18,5 @@ D:\wirecardgithub\ccors-transactionresult-service-net\ccors-transactionresult-se
 D:\wirecardgithub\ccors-transactionresult-service-net\ccors-transactionresult-service-net\obj\Debug\ccors-transactionresult-service-net.csprojResolveAssemblyReference.cache
 D:\wirecardgithub\ccors-transactionresult-service-net\ccors-transactionresult-service-net\obj\Debug\ccors-transactionresult-service-net.dll
 D:\wirecardgithub\ccors-transactionresult-service-net\ccors-transactionresult-service-net\obj\Debug\ccors-transactionresult-service-net.pdb
+D:\wirecardgithub\ccors-transactionresult-service-net\ccors-transactionresult-service-net\obj\Debug\ccors-transactionresult-service-net.csproj.CoreCompileInputs.cache
+D:\wirecardgithub\ccors-transactionresult-service-net\ccors-transactionresult-service-net\obj\Debug\ccors-transactionresult-service-net.csproj.CopyComplete

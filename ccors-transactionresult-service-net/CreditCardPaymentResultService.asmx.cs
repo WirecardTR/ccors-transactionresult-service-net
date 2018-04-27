@@ -9,16 +9,15 @@ namespace ccors_transactionresult_service_net
     /// <summary>
     /// Summary description for CreditCardPaymentResultService
     /// </summary>
-    [WebService(Namespace = "http://tempuri.org/")]
+    [WebService(Namespace = "http://cservices.mikro-odeme.com.tr/mapping/generated")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
     [System.ComponentModel.ToolboxItem(false)]
-    // To allow this Web Service to be called from script, using ASP.NET AJAX, uncomment the following line. 
-    // [System.Web.Script.Services.ScriptService]
+  
     public class CreditCardPaymentResultService : System.Web.Services.WebService
     {
 
         [WebMethod(EnableSession = true)]
-        public Response ReceiveTransactionResult(int StatusCode, string ResultCode, string ResultMessage, string OrderId, string MPAY, double Price, DateTime TransactionDate, string ServiceTypeCode, string TransactionTypeCode, string ExtraParam)
+        public Response ReceiveTransactionResult(input input)
         {
             Response response = new Response();
             response.StatusCode = 0;
